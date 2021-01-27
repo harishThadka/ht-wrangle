@@ -35,8 +35,8 @@ grep '^HORATIO$' input.txt -c. > horatioCount.txt
 - output in horatioCount.txt: 112
 
 # My question:
-- How many times does speaker speaks in tragedy
-# Files:
+- How many times any two speakers speak in tragedy?
+# Results:
 - [input.txt](./input.tx)
 - [hamletCount.txt](./hamletCount.txt)
 - [horatioCount.txt](./horatioCount.txt)
